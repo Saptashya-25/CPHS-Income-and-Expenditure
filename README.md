@@ -1,0 +1,1 @@
+The Inc_Exp_CPHS.do file cleans India's Income and Expenditure data from the Consumer Pyramid Household Survey. It is one of the most granular and frequent datasets available. It has district information for each month, and the data set can be used to study several development projects in India. 
